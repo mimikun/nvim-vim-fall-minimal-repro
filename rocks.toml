@@ -1,0 +1,12 @@
+[rocks]
+
+[plugins]
+"rocks.nvim" = "2.40.4"
+"rocks-git.nvim" = "2.5.0"
+"rocks-config.nvim" = "3.0.0"
+
+[plugins."denops.vim"]
+git = "vim-denops/denops.vim"
+
+[plugins."vim-fall"]
+git = "lambdalisue/vim-fall"
